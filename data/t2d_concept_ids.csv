@@ -1,0 +1,19 @@
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept
+201826,Type 2 diabetes mellitus,Condition,SNOMED,S
+766253,Exacerbation of type 2 diabetes mellitus,Condition,OMOP Extension,S
+3191208,Poorly controlled type II diabetes with neuropathy,Condition,Nebraska Lexicon,S
+3192767,Poorly controlled type II diabetes with circulatory disease,Condition,Nebraska Lexicon,S
+3193274,Poorly controlled type 2 diabetes,Condition,Nebraska Lexicon,S
+3194082,Poorly controlled type II diabetes with complications,Condition,Nebraska Lexicon,S
+3194332,Poorly controlled type II diabetes with renal complications,Condition,Nebraska Lexicon,S
+4063043,Pre-existing type 2 diabetes mellitus,Condition,SNOMED,S
+4099651,Type 2 diabetes mellitus with ulcer,Condition,SNOMED,S
+4129519,Pregnancy and type 2 diabetes mellitus,Condition,SNOMED,S
+4130162,Insulin treated type 2 diabetes mellitus,Condition,SNOMED,S
+4193704,Type 2 diabetes mellitus without complication,Condition,SNOMED,S
+4230254,Type 2 diabetes mellitus in nonobese,Condition,SNOMED,S
+4304377,Type 2 diabetes mellitus in obese,Condition,SNOMED,S
+36684827,Diabetes mellitus type 2 with periodontal disease,Condition,SNOMED,S
+43531010,Pre-existing type 2 diabetes mellitus in pregnancy,Condition,SNOMED,S
+45757474,Diabetes mellitus type 2 without retinopathy,Condition,SNOMED,S
+45766052,Type II diabetes mellitus in remission,Condition,SNOMED,S

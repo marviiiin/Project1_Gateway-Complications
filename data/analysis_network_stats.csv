@@ -1,0 +1,2 @@
+nodes,edges,density,connected_components,largest_component_size,largest_component_pct,avg_degree,median_degree,max_degree,avg_strength,avg_clustering_weighted,avg_clustering_unweighted,transitivity,avg_path_length_lcc,diameter_lcc
+578,15259,0.091507,6,572,98.96,52.8,34.0,254,9.195,0.1267,0.5807,0.4265,2.1967,5

@@ -1,0 +1,54 @@
+======================================================================
+T2D COHORT EXTRACTION SUMMARY
+======================================================================
+
+Source: EHRShot dataset (Stanford STARR-OMOP)
+T2D anchor concept: 201826 (Type 2 diabetes mellitus)
+T2D descendant concepts used: 18
+
+--- Cohort ---
+T2D patients: 1354
+Total EHRShot patients: 6148
+Cohort proportion: 22.0%
+
+--- Condition Records ---
+Total records (after dedup, standard only): 670,501
+Unique condition concepts: 6350
+Date range: 2002-10-10 00:00:00 to 2023-02-08 00:00:00
+
+--- Demographics ---
+Age: mean=72.5, median=75, min=25, max=105
+Gender: Male=764, Female=590
+
+Age groups:
+age_group
+Under 60    259
+60-74       444
+75+         651
+
+Race:
+race
+White                                        654
+Unknown                                      345
+Asian                                        237
+Black or African American                     87
+Native Hawaiian or Other Pacific Islander     25
+American Indian or Alaska Native               6
+
+--- Condition Prevalence Thresholds ---
+  >=   5 patients: 2843 conditions
+  >=  10 patients: 1875 conditions
+  >=  20 patients: 1171 conditions
+  >=  30 patients:  869 conditions
+  >=  50 patients:  578 conditions
+  >=  75 patients:  388 conditions
+  >= 100 patients:  262 conditions
+
+--- Design Decisions ---
+1. Cohort: concept_ancestor expansion from 201826 (OHDSI standard)
+2. Inclusion: >= 1 T2D diagnosis record
+3. Scope: ALL diagnoses for cohort patients (full comorbidity landscape)
+4. Vocabulary: Standard SNOMED concepts only (standard_concept='S')
+5. Deduplication: same patient + condition + date
+
+======================================================================

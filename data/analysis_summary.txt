@@ -1,0 +1,82 @@
+======================================================================
+T2D COMORBIDITY NETWORK ANALYSIS — PROJECT 1 RESULTS
+======================================================================
+
+--- Global Network Statistics ---
+  nodes: 578
+  edges: 15259
+  density: 0.091507
+  connected_components: 6
+  largest_component_size: 572
+  largest_component_pct: 98.96
+  avg_degree: 52.8
+  median_degree: 34.0
+  max_degree: 254
+  avg_strength: 9.195
+  avg_clustering_weighted: 0.1267
+  avg_clustering_unweighted: 0.5807
+  transitivity: 0.4265
+  avg_path_length_lcc: 2.1967
+  diameter_lcc: 5
+
+--- Community Detection (Louvain, modularity=0.3174) ---
+  Communities: 12
+  Sizes: [187, 127, 124, 101, 25, 6, 2, 2, 1, 1, 1, 1]
+  Community 3: 187 conditions, density=0.160
+    Top: Chest pain; Obesity; Gastroesophageal reflux disease without esophagitis; Consti
+  Community 1: 127 conditions, density=0.190
+    Top: Anemia; Cardiac arrhythmia; Lung field abnormal; Fever; Gastroesophageal reflux 
+  Community 10: 124 conditions, density=0.292
+    Top: Pleural effusion; Acute renal failure syndrome; Atelectasis; Tachycardia; Low bl
+  Community 4: 101 conditions, density=0.363
+    Top: Essential hypertension; Hyperlipidemia; Electrocardiogram abnormal; Type 2 diabe
+  Community 2: 25 conditions, density=0.433
+    Top: Anemia in chronic kidney disease; End-stage renal disease; Disorder of kidney du
+  Community 6: 6 conditions, density=0.467
+    Top: Weakness of face muscles; Transient cerebral ischemia; Late effects of cerebrova
+  Community 9: 2 conditions, density=1.000
+    Top: Non-toxic uninodular goiter; Non-toxic multinodular goiter
+  Community 11: 2 conditions, density=1.000
+    Top: Type 1 diabetes mellitus without complication; Type 1 diabetes mellitus
+  Community 0: 1 conditions, density=0.000
+    Top: Type 2 diabetes mellitus without complication
+  Community 5: 1 conditions, density=0.000
+    Top: Alcohol abuse
+  Community 7: 1 conditions, density=0.000
+    Top: Glaucoma
+  Community 8: 1 conditions, density=0.000
+    Top: Nonspecific tuberculin test reaction
+
+--- Bridge Diagnoses (52 found) ---
+  Criteria: betweenness >= 0.001806 (Q75) AND participation_coeff >= 0.6342 (Q75)
+  BT=0.0864 PC=0.757 Comms=5  Dyspnea
+  BT=0.0776 PC=0.717 Comms=5  Electrocardiogram abnormal
+  BT=0.0528 PC=0.717 Comms=5  Pleural effusion
+  BT=0.0457 PC=0.700 Comms=5  Abnormal findings on diagnostic imaging of lung
+  BT=0.0418 PC=0.695 Comms=5  Type 2 diabetes mellitus
+  BT=0.0323 PC=0.748 Comms=5  Anemia
+  BT=0.0314 PC=0.708 Comms=6  Malaise
+  BT=0.0304 PC=0.687 Comms=5  Cough
+  BT=0.0244 PC=0.701 Comms=5  Chest pain
+  BT=0.0236 PC=0.676 Comms=5  Abdominal pain
+
+--- Top 10 Gateway Conditions (Temporal) ---
+  OutStrength= 52193  Essential hypertension
+  OutStrength= 46281  Type 2 diabetes mellitus without complication
+  OutStrength= 42370  Hyperlipidemia
+  OutStrength= 41384  Electrocardiogram abnormal
+  OutStrength= 31600  Dyspnea
+  OutStrength= 27532  Chest pain
+  OutStrength= 27316  Anemia
+  OutStrength= 24544  Cardiomegaly
+  OutStrength= 23947  Pleural effusion
+  OutStrength= 23890  Type 2 diabetes mellitus
+
+--- Demographic Subgroup Comparison ---
+        male: 108,721 edges, density=0.6520, communities=7, modularity=0.0981
+      female: 114,101 edges, density=0.6843, communities=9, modularity=0.0955
+     under60: 106,720 edges, density=0.6400, communities=5, modularity=0.1108
+    age60_74: 115,628 edges, density=0.6934, communities=5, modularity=0.0963
+   age75plus: 104,024 edges, density=0.6238, communities=3, modularity=0.1118
+
+======================================================================

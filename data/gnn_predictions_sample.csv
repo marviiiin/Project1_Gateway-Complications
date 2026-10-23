@@ -1,0 +1,51 @@
+condition_a,condition_b,predicted_score,actual_label
+Transient cerebral ischemia,Aphasia,0.9973,1
+Spinal stenosis in cervical region,Degeneration of lumbar intervertebral disc,0.983,1
+Secondary malignant neoplasm of bone,Primary malignant neoplasm,0.9818,1
+Secondary malignant neoplasm of lung,Primary malignant neoplasm of respiratory tract,0.9741,1
+Secondary malignant neoplasm of liver,"Intra-abdominal and pelvic swelling, mass and lump",0.9713,1
+Acute renal failure syndrome,Acidosis,0.9553,1
+Tachycardia,Chronic pulmonary edema,0.9486,1
+Osteoarthritis of knee,Disorder of musculoskeletal system,0.9472,1
+Atelectasis,Acidosis,0.947,1
+Degeneration of lumbar intervertebral disc,Lumbar radiculopathy,0.9427,1
+Hyperkalemia,Acidosis,0.9394,1
+Urgent desire to urinate,Lumbago with sciatica,0.9379,1
+Pneumonia,Tachycardia,0.9357,1
+Diarrhea,Acute renal failure syndrome,0.9352,1
+Acute renal failure syndrome,Cardiomegaly,0.9328,1
+Acute renal failure syndrome,Late effect of complications of procedure,0.9309,1
+Acidosis,Pulmonary hypertension,0.9296,1
+Atrial fibrillation,Chronic pulmonary edema,0.9288,1
+Cardiomegaly,Tachycardia,0.9277,1
+Pleural effusion,Late effect of complications of procedure,0.9276,1
+Sepsis,Chronic pulmonary edema,0.9271,1
+Chronic pulmonary edema,Pulmonary hypertension,0.9247,1
+Heart failure,Chronic pulmonary edema,0.9235,1
+Atelectasis,Heart failure,0.922,1
+Diarrhea,Low blood pressure,0.9212,1
+Type 2 diabetes mellitus,Low blood pressure,0.9203,1
+Acute posthemorrhagic anemia,Tachycardia,0.9165,1
+Chronic pulmonary edema,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),0.9138,1
+Urge incontinence of urine,Nocturia,0.9135,1
+Type 2 diabetes mellitus,Pneumonia,0.9132,1
+Urge incontinence of urine,Lumbar spondylosis,0.9129,1
+Chronic pulmonary edema,Late effect of complications of procedure,0.9128,1
+Pain of right knee joint,Lumbago with sciatica,0.9122,1
+Type 2 diabetes mellitus,Hypertensive heart and renal disease with (congestive) heart failure,0.9122,1
+Hypervolemia,"Abdominal distension, gaseous",0.9121,1
+Low blood pressure,Acute hypoxemic respiratory failure,0.911,1
+Pain of left knee region,Disorder of musculoskeletal system,0.9104,1
+Mixed acid-base balance disorder,Chronic pulmonary edema,0.9076,1
+Type 2 diabetes mellitus,Acute hypoxemic respiratory failure,0.9074,1
+Paroxysmal atrial fibrillation,Chronic pulmonary edema,0.9068,1
+Hypertensive heart and renal disease with (congestive) heart failure,Pulmonary hypertension,0.9066,1
+Urgent desire to urinate,Tear film insufficiency,0.9064,1
+Sleep apnea,Morbid obesity,0.9054,1
+Atrial fibrillation,Acute hypoxemic respiratory failure,0.9045,1
+Hyperkalemia,"Abdominal distension, gaseous",0.904,1
+Delirium,Tachycardia,0.9027,1
+Abnormal findings on diagnostic imaging of lung,Hyperosmolality and or hypernatremia,0.9023,1
+Atrial premature complex,Chronic pulmonary edema,0.9019,1
+Cardiomegaly,Heart failure,0.9019,1
+Urge incontinence of urine,Pain of right knee joint,0.9018,1

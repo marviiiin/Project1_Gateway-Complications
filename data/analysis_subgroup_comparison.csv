@@ -1,0 +1,6 @@
+subgroup,edges,connected_nodes,density,avg_degree,max_degree,avg_clustering,n_communities,modularity,top5_by_degree
+male,108721,576,0.651988,376.2,553,0.0949,7,0.0981,Malaise(553); Cough(550); Dyspnea(543); Tachycardia(542); Abdominal pain(538)
+female,114101,573,0.684252,394.81,550,0.1009,9,0.0955,Atelectasis(550); Dehydration(549); Cough(544); Diarrhea(543); Nausea and vomiting(543)
+under60,106720,577,0.639988,369.27,518,0.1058,5,0.1108,Disorder of immune function(518); Backache(515); Cough(512); Asthenia(512); Disorder of kidney and/or uret(508)
+age60_74,115628,578,0.693409,400.1,560,0.0948,5,0.0963,Malaise(560); Nausea(551); Fever(549); Tachycardia(546); Hypo-osmolality and or hyponat(544)
+age75plus,104024,578,0.623821,359.94,545,0.0856,3,0.1118,Malaise(545); Diarrhea(540); Tachycardia(535); Asthenia(532); Edema(531)

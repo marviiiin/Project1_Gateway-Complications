@@ -1,0 +1,15 @@
+community_id,size,density,top_conditions
+0,16,0.4833,Ascites; Disease of liver; Disorder of pancreas; Steatosis of liver; Disorder of biliary tract
+1,6,0.8,Benign prostatic hyperplasia; Benign prostatic hyperplasia with outflow obstruction; Nocturia; Benign prostatic hyperplasia without outflow obstruction; Secondary erectile dysfunction
+2,151,0.1981,Essential hypertension; Type 2 diabetes mellitus; Dyspnea; Abnormal findings on diagnostic imaging of lung; Chest pain
+3,11,0.4909,Disorder of brain; Cerebral infarction; Seizure; Weakness of face muscles; Transient cerebral ischemia
+4,5,1.0,"Hearing loss; Sensorineural hearing loss, bilateral; Impacted cerumen; Sensorineural hearing loss; Otalgia"
+5,82,0.4279,Hyperlipidemia; Electrocardiogram abnormal; Cardiomegaly; Congestive heart failure; Atrial fibrillation
+6,7,0.9048,Neoplasm of uncertain behavior of skin; Senile hyperkeratosis; Scar conditions and fibrosis of skin; Actinic keratosis; Melanocytic nevus
+7,2,1.0,Type 1 diabetes mellitus without complication; Type 1 diabetes mellitus
+8,2,1.0,Nicotine dependence; Tobacco dependence syndrome
+9,12,0.697,"Lymphadenopathy; Anemia in neoplastic disease; Pain due to neoplastic disease; Intra-abdominal and pelvic swelling, mass and lump; Malignant neoplastic disease"
+10,4,1.0,Polyneuropathy due to type 2 diabetes mellitus; Disorder of nervous system due to type 2 diabetes mellitus; Disorder of nervous system due to diabetes mellitus; Polyneuropathy due to diabetes mellitus
+11,39,0.3968,Chronic kidney disease; Hyperkalemia; Anemia in chronic kidney disease; Peripheral vascular disease; End-stage renal disease
+12,205,0.1841,Pleural effusion; Anemia; Acute renal failure syndrome; Atelectasis; Cardiac arrhythmia
+13,30,0.4483,Low back pain; Pain in limb; Neck pain; Osteoarthritis of knee; Joint pain
