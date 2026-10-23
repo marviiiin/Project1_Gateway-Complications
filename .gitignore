@@ -26,4 +26,5 @@ Thumbs.db
 *.zip
 
 # Raw EHRShot data (too large / requires DUA)
+data/
 outputs/

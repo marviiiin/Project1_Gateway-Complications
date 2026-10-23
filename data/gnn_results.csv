@@ -1,7 +1,0 @@
-model,test_auc_mean,test_auc_std,test_ap_mean,test_ap_std,weighted
-GCN,0.8874,0.0008,0.8858,0.003,True
-GCN (unweighted),0.8914,0.0037,0.8911,0.0032,False
-GraphSAGE,0.8938,0.007,0.8891,0.0084,True
-GraphSAGE (unweighted),0.894,0.0052,0.8925,0.0048,False
-GAT,0.8265,0.0218,0.7929,0.0258,True
-GAT (unweighted),0.836,0.0223,0.8029,0.0298,False
